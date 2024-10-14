@@ -1,4 +1,4 @@
-# Ackermann Rover
+# Ackermann Rovers
 
 <Badge type="tip" text="main (PX4 v1.16+)" /> <Badge type="warning" text="Experimental" />
 
